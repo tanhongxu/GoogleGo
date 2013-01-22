@@ -6,3 +6,5 @@ e.g. https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&
 to https://developer.chrome.com/extensions/webRequest.html
 
 This plugin is for Mainland of China!
+
+v1.1: added function to redirect to Baidu if google can't work
