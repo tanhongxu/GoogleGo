@@ -7,6 +7,7 @@
 //
 // v1.1: added function to redirect to Baidu if google can't work
 //
+
 // Created by James Tan on 12/10/2012.
 // Updated by James Tan on 1/22/2013
 //
